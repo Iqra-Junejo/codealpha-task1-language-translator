@@ -1,5 +1,4 @@
-# codealpha-task1-language-translator
-🔄 A multi-language translator app built using Python and Tkinter as part of Task 1 in the CodeAlpha Artificial Intelligence Internship. Features include translation via APIs, auto language detection, text-to-speech, and more.
+
 # 🌍 CodeAlpha Task 1: Advanced Language Translator
 
 This is my submission for **Task 1** of the **Artificial Intelligence Internship at CodeAlpha**.  
