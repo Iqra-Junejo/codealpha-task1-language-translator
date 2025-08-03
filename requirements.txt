@@ -1,0 +1,22 @@
+# ========== Instructions ==========
+
+# Step 1: Remove old googletrans if it's installed (not required in this project)
+# Run this command in your terminal:
+# pip uninstall googletrans
+
+# Step 2: Install the required libraries
+# Either install them one by one:
+pip install requests
+pip install pyttsx3
+pip install pyperclip
+pip install pillow
+
+# OR install all at once using:
+# pip install -r requirements.txt
+
+# ========== Required Libraries ==========
+
+requests==2.31.0
+pyttsx3==2.90
+pyperclip==1.8.2
+pillow==10.3.0
