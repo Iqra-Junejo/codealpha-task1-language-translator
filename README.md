@@ -32,11 +32,11 @@ I built a desktop application using **Python** and **Tkinter** that translates t
 
 ## 📸 GUI Preview
 
-*(Add screenshots here if available)*
+<img width="1592" height="860" alt="image" src="https://github.com/user-attachments/assets/3e4a566c-a63b-44f9-b87b-5790673921bb" />
+
 
 ---
 
-## 💻 How to Run
 
 ### 1. Clone the repository
 ```bash
