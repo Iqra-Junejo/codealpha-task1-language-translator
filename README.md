@@ -34,6 +34,7 @@ I built a desktop application using **Python** and **Tkinter** that translates t
 
 <img width="1592" height="860" alt="image" src="https://github.com/user-attachments/assets/3e4a566c-a63b-44f9-b87b-5790673921bb" />
 
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/06899265-114d-4749-b1b3-c704e3d968ef" />
 
 ---
 
